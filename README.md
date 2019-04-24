@@ -1,6 +1,12 @@
 ## Week 5
 
 ###  30th April/ 1st May 2019
+At this point we have developed an Azure hosted Java Spring web application connected to an Azure SQL database.
+
+The application **reads** products from the database and supports **creation** of new products which are inserted into the database.
+
+The next class will add update and delete to complete the **CRUD** functionality (**C**reate, **R**ead, **U**pdate, and **D**elete). We will also add a product search function which will find products which include search words in their names or descriptions (using a like query). Try the completed app here: https://java-app2019.azurewebsites.net/products/
+
 
 ### Preperation Exercise 
 
