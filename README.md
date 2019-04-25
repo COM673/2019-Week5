@@ -24,3 +24,6 @@ The web application should display a list of employees from an Azure SQL databas
 ..- List the employees in a table
 ..- Include a list of department links - when clicked show employees for that department.
 5. Deploy the web app to Azure via FTP.
+
+### 5.1 Updating Products
+https://github.com/COM673/2019-Week5-CRUD/blob/master/5.1.SpringBootWebAppJDBC-UpdateProduct.pdf
