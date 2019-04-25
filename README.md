@@ -33,3 +33,6 @@ https://github.com/COM673/2019-Week5-CRUD/blob/master/5.2.SpringBootWebAppJDBC-D
 
 ### 5.3 Searching for Products
 https://github.com/COM673/2019-Week5-CRUD/blob/master/5.3.SpringBootWebAppJDBC-SearchProducts.pdf
+
+### Git Repository for completed web app (week 5)
+https://github.com/COM673/webapp-crud-search
