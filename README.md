@@ -27,3 +27,6 @@ The web application should display a list of employees from an Azure SQL databas
 
 ### 5.1 Updating Products
 https://github.com/COM673/2019-Week5-CRUD/blob/master/5.1.SpringBootWebAppJDBC-UpdateProduct.pdf
+
+### 5.2 Deleting Products
+https://github.com/COM673/2019-Week5-CRUD/blob/master/5.2.SpringBootWebAppJDBC-DeleteProduct.pdf
