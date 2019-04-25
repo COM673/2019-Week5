@@ -37,4 +37,4 @@ https://github.com/COM673/2019-Week5-CRUD/blob/master/5.3.SpringBootWebAppJDBC-S
 ### Git Repository for completed web app (week 5)
 https://github.com/COM673/webapp-crud-search
 
-#### Working example: https://java-app2019.azurewebsites.net/
+#### Working example: https://java-app2019.azurewebsites.net/products
