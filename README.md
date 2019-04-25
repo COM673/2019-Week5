@@ -32,4 +32,4 @@ https://github.com/COM673/2019-Week5-CRUD/blob/master/5.1.SpringBootWebAppJDBC-U
 https://github.com/COM673/2019-Week5-CRUD/blob/master/5.2.SpringBootWebAppJDBC-DeleteProduct.pdf
 
 ### 5.3 Searching for Products
-https://github.com/COM673/2019-Week5-CRUD/blob/master/5.3.SpringBootWebAppJDBC-SearchProduct.pdf
+https://github.com/COM673/2019-Week5-CRUD/blob/master/5.3.SpringBootWebAppJDBC-SearchProducts.pdf
