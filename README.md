@@ -8,7 +8,7 @@ The application **reads** products from the database and supports **creation** o
 The next class will add update and delete to complete the **CRUD** functionality (**C**reate, **R**ead, **U**pdate, and **D**elete). We will also add a product search function which will find products which include search words in their names or descriptions (using a like query). Try the completed app here: https://java-app2019.azurewebsites.net/products/
 
 
-### Preperation Exercise 
+### 5.0 Preperation Exercise 
 
 #### Create a Spring Boot web app and deploy to Azure
 The web application should display a list of employees from an Azure SQL database. Employees should be organised by teir work department.
